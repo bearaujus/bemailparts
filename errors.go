@@ -1,4 +1,4 @@
-package bemailpart
+package bemailparts
 
 import "errors"
 
